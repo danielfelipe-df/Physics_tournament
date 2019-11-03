@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/bin/g++    -rdynamic CMakeFiles/fuidos.x.dir/fluido_pelotas.cpp.o CMakeFiles/fuidos.x.dir/Vector.cpp.o CMakeFiles/fuidos.x.dir/cuerpo.cpp.o CMakeFiles/fuidos.x.dir/colisionador.cpp.o  -o fuidos.x 

@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Random64.h
+iostream
+-
+cmath
+-
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Vector.cpp
+Vector.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Vector.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Vector.h
+iostream
+-
+cmath
+-
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/colisionador.cpp
+colisionador.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/colisionador.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/colisionador.h
+iostream
+-
+fstream
+-
+cmath
+-
+constantes.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/constantes.h
+cuerpo.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/cuerpo.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/constantes.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/cuerpo.cpp
+cuerpo.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/cuerpo.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/cuerpo.h
+iostream
+-
+fstream
+-
+cmath
+-
+constantes.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/constantes.h
+Vector.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Vector.h
+
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/fluido_pelotas.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+constantes.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/constantes.h
+Vector.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Vector.h
+Random64.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/Random64.h
+cuerpo.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/cuerpo.h
+colisionador.h
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Frijoles/Cmake_project/colisionador.h
+

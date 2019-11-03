@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/g++    -rdynamic CMakeFiles/fluidos.x.dir/Vector.cpp.o CMakeFiles/fluidos.x.dir/cilindro.cpp.o CMakeFiles/fluidos.x.dir/colisionador.cpp.o CMakeFiles/fluidos.x.dir/cuerpo.cpp.o CMakeFiles/fluidos.x.dir/frijoles.cpp.o  -o fluidos.x 

@@ -1,0 +1,3 @@
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Ping-Pong/Cmake_project/Compilation/CMakeFiles/rebuild_cache.dir
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Ping-Pong/Cmake_project/Compilation/CMakeFiles/edit_cache.dir
+/home/daniel/Universidad/Física 2019-02/Physics_Tournament/Ping-Pong/Cmake_project/Compilation/CMakeFiles/fuidos.x.dir
